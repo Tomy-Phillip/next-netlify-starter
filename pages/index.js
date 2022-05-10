@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <p className="description">
-          yoooo</code>
+          yoooo
         </p>
       </main>
 
